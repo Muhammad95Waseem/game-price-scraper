@@ -1,0 +1,20 @@
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Python caching and temporary compilation files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local environment configuration and secrets
+.env
+.env.local
+.env.*.local
+
+# Operating system files
+Thumbs.db
+.DS_Store
